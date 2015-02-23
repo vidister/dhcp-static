@@ -22,5 +22,5 @@
 #just a dumb accesspoint connected to the client-ethernet of Trittenheim_Testfunk
 host 54349-Trittenheim_Testfunk-DLinkOutdoor {
 	hardware ethernet 00:17:9a:59:20:cb;
-	fixed-address 10.172.1.1
+	fixed-address 10.172.1.1;
 }
